@@ -1,8 +1,9 @@
 Click>=7.0
 dash>=1.19.0
+dash-bootstrap-components>=0.11.3
 Flask
 Flask-Compress
-itsdangerous>=1.1.0
+#itsdangerous>=1.1.0
 Jinja2>=2.10.3
 MarkupSafe>=1.1.1
 pandas>=1.2.2
